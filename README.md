@@ -50,6 +50,14 @@ Run database migrations:
 php artisan migrate
 ```
 
+Setup vimeo key where in `.env` file:
+
+```
+VIMEO_CLIENT=
+VIMEO_SECRET=
+VIMEO_ACCESS=
+```
+
 Run the dev server:
 
 ```
